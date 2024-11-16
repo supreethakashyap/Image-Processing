@@ -2,8 +2,11 @@
 Requirements
 
 Python 3.x
+
 OpenCV (cv2)
+
 NumPy
+
 Matplotlib
 
 Task 1: Line Detection : Detects lines on a grid image and highlights them without detecting numbers or text.
@@ -19,4 +22,3 @@ Removes a human body from video frames and tracks its movement. Additionally, it
 Replace 'path_to_video.mp4' with your video file path or use 0 for webcam input.
 
 
-Attached the snapshots of the all the outputs in a folder for reference. 
